@@ -1,3 +1,7 @@
+---
+title: curriculum vitae
+---
+
 [<- back to homepage](index.md)
 
 

@@ -1,3 +1,7 @@
+---
+title: llulai
+---
+
 # llulai
 in college my friends used to call me _july_ /d͡ʒʊˈlaɪ/ (in spanish, _julio_ refers
 to both: the name and the month) - if you read _july_ /χuli/ in spanish, it sounds
