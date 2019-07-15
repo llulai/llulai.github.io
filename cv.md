@@ -16,10 +16,10 @@ machine leaning ★★ - algorithms ★
 
 
 # PROJECT EXPERIENCE
-## pypyt
-## data analysis tool
-## report automation tool
-## data warehouse and dashboards
+### pypyt
+### data analysis tool
+### report automation tool
+### data warehouse and dashboards
 
 
 # WORK EXPERIENCE
