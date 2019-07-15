@@ -4,6 +4,8 @@ to both: the name and the month) - if you read _july_ /χuli/ in spanish, it sou
 like _hooly_, if you want a word to be read as /d͡ʒʊˈlaɪ/ you should write **llulai**
 
 # mini bio
+born in santiago, chile. eldest of four siblings. studied information systems at
+[uchile](http://www.uchile.cl/). currently living in são paulo, brazil.
 
 # my interests
 - **languages:** I speak spanish, english, italian and portuguese, my next languages will
