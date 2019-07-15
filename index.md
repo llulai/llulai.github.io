@@ -33,7 +33,7 @@ here is my [linkedin](https://www.linkedin.com/in/llulai/) profile and my
   
   <dt>programming</dt>
   <dd>I had a couple of programming courses during college, but then kept
-      learning on my own, I am pretty good with _python_ and I'm currently learning <i>go</i>.
+      learning on my own, I am pretty good with <i>python</i> and I'm currently learning <i>go</i>.
       I'm also trying to learn more about design and analysis of algorithms.
   </dd>
 
@@ -46,22 +46,27 @@ here is my [linkedin](https://www.linkedin.com/in/llulai/) profile and my
 
 # projects
 
-- [advent of py](https://github.com/llulai/advent_of_py): I've been programming in
-[python](https://www.python.org/)
-since 2008, this is a repo where I showcase my python skills by solving the
-[advent of code](https://adventofcode.com).
+<dl>
+    <dt><a href="https://github.com/llulai/advent_of_py">advent of py</a></dt>
+    <dd>I've been programming in <a href="https://www.python.org">python</a> since 2008, this is
+        a repo where I showcase my python skills by solving the
+        <a href="https://adventofcode.com">advent of code</a>.
+    </dd>
+    <dt><a href="https://github.com/llulai/advent_of_go">advent of go</a></dt>
+    <dd>recently I started programming in <a href="https://golang.org">go</a>, this is a repo where
+        I solve the <a href="https://adventofcode.com">advent of code</a> using it.
+    </dd>
+    <dt><a href="https://github.com/llulai/pypyt">pypyt</a></dt>
+    <dd>pptx file renderer - imagine you have a powerpoint presentation template that you need to
+        fill it with some data, i.e. some clients qbr, and you don't want to fill each presentation
+        by hand, then this is the library you need.
+    </dd>
+    <dt><a href="https://github.com/llulai/verbs">verbs</a></dt>
+    <dd>I'm working on a simple program to help me practice how to conjugate verbs in the
+        languages I'm learning.
+    </dd>
 
-- [advent of go](https://github.com/llulai/advent_of_go): recently I started programming in
-[go](https://golang.org/), this is a repo where I solve the
-[advent of code](https://adventofcode.com) using it.
-
-- [pypyt](https://github.com/llulai/pypyt): pptx file renderer - imagine you have a
-powerpoint presentation template that you need to fill it with some data, i.e. some
-clients qbr, and you don't want to fill each presentation by hand, then this is 
-the library you need.
-
-- [verbs](https://github.com/llulai/verbs): I'm working on a simple program to help me
-practice how to conjugate verbs in the languages I'm learning.
+</dl>
 
 
 # what's next
