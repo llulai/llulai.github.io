@@ -9,22 +9,30 @@ born in santiago, chile. eldest of four siblings. studied information systems at
 
 # interests
 <dl>
-<dt>languages</dt>
-<dd>I speak spanish, english, italian and portuguese, my next languages will
-probably be french, german and russian. you can see my
-[duolingo profile](https://www.duolingo.com/llulai)</dd>
+  <dt>languages</dt>
+  <dd>I speak spanish, english, italian and portuguese, my next languages will
+      probably be french, german and russian. you can see my
+      <a href="https://www.duolingo.com/llulai">duolingo profile</a>
+  </dd>
+  
+  <dt>stats</dt>
+  <dd>
+      I was a teaching assistant in college, I still share my stats knowledge
+      with my coworkers.
+  </dd>
+  
+  <dt>programming</dt>
+  <dd>I had a couple of programming courses during college, but then kept
+      learning on my own, I am pretty good with _python_ and I'm currently learning _go_.
+      I'm also trying to learn more about design and analysis of algorithms.
+  </dd>
+
+  <dt>machine learning</dt>
+  <dd>for the last couple of years I've been learning _machine learning_,
+      I'm not currently trying to become an ml engineer (like to create novel approaches to ml),
+      I'm more interested in its practical applications.
+  </dd>
 </dl>
-
-- **stats:** I was a teaching assistant in college, I still share my stats knowledge
-with my coworkers.
-
-- **programming:** I had a couple of programming courses during college, but then kept
-learning on my own, I am pretty good with _python_ and I'm currently learning _go_.
-I'm also trying to learn more about design and analysis of algorithms.
-
-- **machine learning:** for the last couple of years I've been learning _machine learning_,
-I'm not currently trying to become an ml engineer (like to create novel approaches to ml),
-I'm more interested in its practical applications.
 
 # projects
 
