@@ -33,8 +33,8 @@ here is my [linkedin](https://www.linkedin.com/in/llulai/) profile and my
       I'm also trying to learn more about design and analysis of algorithms.
   </dd>
 
-  <dt>machine learning</dt>
-  <dd>for the last couple of years I've been learning _machine learning_,
+  <dt>statistical/machine learning</dt>
+  <dd>for the last couple of years I've been learning <i>machine learning</i>,
       I'm not currently trying to become an ml engineer (like to create novel approaches to ml),
       I'm more interested in its practical applications.
   </dd>
