@@ -10,14 +10,14 @@ born in santiago, chile. eldest of four siblings. studied information systems at
 # work
 business and data analyst with eight years of experience.
 here is my [linkedin](https://www.linkedin.com/in/llulai/) profile and my
-[full cv](cv.md)
+[full cv](cv.md).
 
 # interests
 <dl>
   <dt>languages</dt>
   <dd>I speak spanish, english, italian and portuguese, my next languages will
       probably be french, german and russian. you can take a look on my
-      <a href="https://www.duolingo.com/llulai">duolingo profile</a>
+      <a href="https://www.duolingo.com/llulai">duolingo profile</a>.
   </dd>
   
   <dt>data/stats</dt>
@@ -63,6 +63,6 @@ practice how to conjugate verbs in the languages I'm learning.
 # what's next
 
 - [simple ml](https://github.com/llulai/simple_ml): I'm trying to implement machine
-learning algorithms in python to make sure that I fully understand how they work
+learning algorithms in python to make sure that I fully understand how they work.
 
-- simple stats: something similar to _simple ml_ but with statistics
+- simple stats: something similar to _simple ml_ but with statistics.
