@@ -7,11 +7,16 @@ like _hooly_, if you want a word to be read as /d͡ʒʊˈlaɪ/ you should write 
 born in santiago, chile. eldest of four siblings. studied information systems at
 [uchile](http://www.uchile.cl/). currently living in são paulo, brazil.
 
+# work
+business and data analyst with eight years of experience.
+here is my [linkedin](https://www.linkedin.com/in/llulai/) profile and my
+[full cv](cv.md)
+
 # interests
 <dl>
   <dt>languages</dt>
   <dd>I speak spanish, english, italian and portuguese, my next languages will
-      probably be french, german and russian. you can see my
+      probably be french, german and russian. you can take a look on my
       <a href="https://www.duolingo.com/llulai">duolingo profile</a>
   </dd>
   
