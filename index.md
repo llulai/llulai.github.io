@@ -20,15 +20,16 @@ here is my [linkedin](https://www.linkedin.com/in/llulai/) profile and my
       <a href="https://www.duolingo.com/llulai">duolingo profile</a>
   </dd>
   
-  <dt>stats</dt>
+  <dt>data/stats</dt>
   <dd>
-      I was a teaching assistant in college, I still share my stats knowledge
-      with my coworkers.
+      ever since my first course of stats in college I've been in love with data, how
+      to describe it, manipulate it, visualize it, understand it, etc. I'm continously
+      learning new methods to work with data.
   </dd>
   
   <dt>programming</dt>
   <dd>I had a couple of programming courses during college, but then kept
-      learning on my own, I am pretty good with _python_ and I'm currently learning _go_.
+      learning on my own, I am pretty good with _python_ and I'm currently learning <i>go</i>.
       I'm also trying to learn more about design and analysis of algorithms.
   </dd>
 
