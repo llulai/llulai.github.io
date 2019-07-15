@@ -71,7 +71,10 @@ here is my [linkedin](https://www.linkedin.com/in/llulai/) profile and my
 
 # what's next
 
-- [simple ml](https://github.com/llulai/simple_ml): I'm trying to implement machine
-learning algorithms in python to make sure that I fully understand how they work.
-
-- simple stats: something similar to _simple ml_ but with statistics.
+<dl>
+    <dt><a href="data">stats overview</a></dt>
+    <dd>I'm currently working on creating a clear, consise, easy to follow statistics overview. it
+        is intended to be a guideline to help people that is interested in acquiring knowledge to
+        work with data
+    </dd>
+</dl>
