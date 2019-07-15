@@ -7,22 +7,26 @@ like _hooly_, if you want a word to be read as /d͡ʒʊˈlaɪ/ you should write 
 born in santiago, chile. eldest of four siblings. studied information systems at
 [uchile](http://www.uchile.cl/). currently living in são paulo, brazil.
 
-# my interests
-- **languages:** I speak spanish, english, italian and portuguese, my next languages will
-probably be french, german and russian.
+# interests
+<dl>
+<dt>languages</dt>
+<dd>I speak spanish, english, italian and portuguese, my next languages will
+probably be french, german and russian. you can see my
+[duolingo profile](https://www.duolingo.com/llulai)</dd>
+</dl>
 
 - **stats:** I was a teaching assistant in college, I still share my stats knowledge
 with my coworkers.
 
 - **programming:** I had a couple of programming courses during college, but then kept
 learning on my own, I am pretty good with _python_ and I'm currently learning _go_.
-I'm also trying to learn more about algorithms.
+I'm also trying to learn more about design and analysis of algorithms.
 
 - **machine learning:** for the last couple of years I've been learning _machine learning_,
 I'm not currently trying to become an ml engineer (like to create novel approaches to ml),
 I'm more interested in its practical applications.
 
-# my projects
+# projects
 
 - [advent of py](https://github.com/llulai/advent_of_py): I've been programming in
 [python](https://www.python.org/)
