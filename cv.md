@@ -1,26 +1,19 @@
 [<- back to homepage](index.md)
 
-# professional summary
+# SUMMARY
 
-# skills
-- languages:
-  - spanish ★★★
-  - english ★★★
-  - italian ★★
-  - portuguese ★★
-- programming:
-  - python ★★★
-  - sql ★★★
-  - go ★
-- data:
-  - statistics ★★★
-  - data visualization ★★★
-  - data manipulation ★★★
-  - machine leaning ★★
+# SKILLS
+- languages: spanish ★★★ - english ★★★ - italian ★★ - portuguese ★★
+- programming: python ★★★ - sql ★★★ - go ★
+- data: statistics ★★★ - data visualization ★★★ - data manipulation ★★★ - machine leaning ★★
 
-# project experience
+# PROJECT EXPERIENCE
+## pypyt
+## data analysis tool
+## report automation tool
+## data warehouse and dashboards
 
-# work experience
+# WORK EXPERIENCE
 ## Senior Data Analyst Latam at Criteo
 Feb 2018 - Current. São Paulo, Brazil
 ## Analysis Department Coordinator at MainAd
@@ -30,7 +23,7 @@ Jan 2013 - Dec 2013. Pescara, Italy
 ## Account Manager at MainAd
 Dec 2010 - Dec 2012. Santiago, Chile
 
-# education
+# EDUCATION
 ## Information Systems, Universidad de Chile
 Mar 2007 - Feb 2012. Santiago, Chile
 ## Exchange Student, University of Groningen
@@ -46,6 +39,6 @@ Jul - Sep 2018. Online
 
 
 
-# contact info
+# CONTACT INFO
  Julio Adrián Gajardo Peredo - oilujulio@gmail.com - São Paulo, Brazil
 
