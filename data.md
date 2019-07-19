@@ -33,6 +33,7 @@ mainly from a _"why is it useful"_ point of view, so let's start
 ### measures of central tendency 
 ### measures of spread
 ### interaction of two variables
+### central limit theorem
 
 ## probability
 <dl>
@@ -66,6 +67,43 @@ mainly from a _"why is it useful"_ point of view, so let's start
     <dd>tbd</dd>
 </dl>
 
+### linear methods for regression
+#### linear regression
+#### ridge regression
+#### lasso regression
+
+### linear methods for classification
+#### linear discriminant analysis
+#### logistic regression
+#### perceptron
+#### maximal margin classifier
+
+### tree based methods
+#### regression trees
+#### classification trees
+#### random forest
+
+### ensembles
+#### boosting
+#### bagging
+
+### support vector machines
+#### support vector classifier
+#### support vector machines
+
+### model assessment and selection
+#### bias, variance and model complexity
+#### cross validation
+#### confussion matrix
+#### accuracy, precision, recall/sensitivity, specificity
+#### roc and auc
+
+### unsupervised learning
+#### clustering
+#### principal components
+#### non-negative matrix factorization
+#### independent component analysis
+
 ## time series
 <dl>
     <dt>what is time series?</dt>
@@ -75,5 +113,26 @@ mainly from a _"why is it useful"_ point of view, so let's start
 ## statistical graphical models
 <dl>
     <dt>what is statistical graphical models?</dt>
+    <dd>tbd</dd>
+</dl>
+
+# related topics
+
+## optimization
+<dl>
+    <dt>what is optimization?</dt>
+    <dd>tbd</dd>
+</dl>
+
+## econometrics
+<dl>
+    <dt>what is econometrics?</dt>
+    <dd>tbd</dd>
+</dl>
+
+
+## stochastic processes
+<dl>
+    <dt>what is stochastic processes?</dt>
     <dd>tbd</dd>
 </dl>
