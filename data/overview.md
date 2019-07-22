@@ -104,35 +104,20 @@ mainly from a _"why is it useful"_ point of view, so let's start
 #### non-negative matrix factorization
 #### independent component analysis
 
+## reinforcement learning
+###
+
+# other statistics topics
 ## time series
-<dl>
-    <dt>what is time series?</dt>
-    <dd>tbd</dd>
-</dl>
-
 ## statistical graphical models
-<dl>
-    <dt>what is statistical graphical models?</dt>
-    <dd>tbd</dd>
-</dl>
-
-# related topics
-
-## optimization
-<dl>
-    <dt>what is optimization?</dt>
-    <dd>tbd</dd>
-</dl>
-
 ## econometrics
-<dl>
-    <dt>what is econometrics?</dt>
-    <dd>tbd</dd>
-</dl>
-
-
 ## stochastic processes
-<dl>
-    <dt>what is stochastic processes?</dt>
-    <dd>tbd</dd>
-</dl>
+
+# other machine learning topics
+## reinforcement learning
+## natural language processing
+## deep learning
+
+# other related topics
+## optimization
+## algorithms
