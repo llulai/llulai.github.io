@@ -2,79 +2,65 @@
 title: llulai
 ---
 
-# llulai
-in college my friends used to call me _july_ /d͡ʒʊˈlaɪ/ (in spanish, _julio_ refers
-to both: the name and the month) - if you read _july_ /χuli/ in spanish, it sounds
-like _hooly_, if you want a word to be read as /d͡ʒʊˈlaɪ/ you should write **llulai**
+# Contact Information
+Julio Adrián Gajardo Peredo
 
-# mini bio
-born in santiago, chile. eldest of four siblings. studied information systems at
-[uchile](http://www.uchile.cl/). currently living in são paulo, brazil.
+São Paulo, Brazil. oilujulio@gmail.com. +5511950743482
 
-# work
-business and data analyst with eight years of experience.
-here is my [linkedin](https://www.linkedin.com/in/llulai/) profile and my
-[full cv](cv.md).
+https://www.linkedin.com/in/llulai/
 
-# interests
-<dl>
-  <dt>languages</dt>
-  <dd>I speak spanish, english, italian and portuguese, my next languages will
-      probably be french, german and russian. you can take a look on my
-      <a href="https://www.duolingo.com/llulai">duolingo profile</a>.
-  </dd>
-  
-  <dt>data/stats</dt>
-  <dd>
-      ever since my first course of stats in college I've been in love with data, how
-      to describe it, manipulate it, visualize it, understand it, etc. I'm continously
-      learning new methods to work with data.
-  </dd>
-  
-  <dt>programming</dt>
-  <dd>I had a couple of programming courses during college, but then kept
-      learning on my own, I am pretty good with <i>python</i> and I'm currently learning <i>go</i>.
-      I'm also trying to learn more about design and analysis of algorithms.
-  </dd>
+# Professional Summary
+I started my career in the AdTech industry as a Data Analyst.
+I studied Machine Learning and AI until I landed a Data Scientist job in the Prop Tech industry at Quinto Andar.
+Then I quickly realized I enjoy working on small teams developing digital products from end to end.
+Currently, among a lot of other things, I do front end development at my own startup.
 
-  <dt>statistical/machine learning</dt>
-  <dd>for the last couple of years I've been learning <i>machine learning</i>,
-      I'm not currently trying to become an ml engineer (like to create novel approaches to ml),
-      I'm more interested in its practical applications.
-  </dd>
-</dl>
+# Skills
+- **Languages:** Spanish - English - Portuguese - Italian
+- **Technical:** React - Next.js - Typescript - Tailwind - Figma - Python - SQL - Google Cloud - Git
+- **Data:** Statistics - Probabilites - Machine Learning - Data visualization
 
-# projects
+# Work Experience
 
-<dl>
-    <dt><a href="https://github.com/llulai/advent_of_py">advent of py</a></dt>
-    <dd>I've been programming in <a href="https://www.python.org">python</a> since 2008, this is
-        a repo where I showcase my python skills by solving the
-        <a href="https://adventofcode.com">advent of code</a>.
-    </dd>
-    <dt><a href="https://github.com/llulai/advent_of_go">advent of go</a></dt>
-    <dd>recently I started programming in <a href="https://golang.org">go</a>, this is a repo where
-        I solve the <a href="https://adventofcode.com">advent of code</a> using it.
-    </dd>
-    <dt><a href="https://github.com/llulai/pypyt">pypyt</a></dt>
-    <dd>pptx file renderer - imagine you have a powerpoint presentation template that you need to
-        fill it with some data, i.e. some clients qbr, and you don't want to fill each presentation
-        by hand, then this is the library you need.
-    </dd>
-    <dt><a href="https://github.com/llulai/verbs">verbs</a></dt>
-    <dd>I'm working on a simple program to help me practice how to conjugate verbs in the
-        languages I'm learning.
-    </dd>
+## Co-Founder at Trular
+*Jun 2020 - current. São Paulo, Brazil.*
+Trular is a listings website for São Paulo.
+As a co-founder I have played a key role in product development and marketing.
+I leverage my expertise in data analytics to use a data-driven approach to improve the product and drive growth.
+Additionally, I rely on my experience in marketing to develop a successful strategy to increase the visibility of our website.
+As the lead front-end developer, I use React, Next.js, and Typescript to build the website and optimize its performance to enhance user experience.
 
-</dl>
+## Data Scientist at Quinto Andar
+Mar 2020 - May 2020. São Paulo, Brazil.
+QuintoAndar is a PropTech Startup in Brazil currently valued at $5.1B.
+As a Data Scientist I worked at the smart pricing squad improving the rent calculator algorithm.
+
+## Senior Data Analyst Latam at Criteo
+Feb 2018 - Feb 2020. São Paulo, Brazil
+Criteo is a global technology company that helps marketers and media owners through a Commerce Media Platform.
+As a Senior Data Analyst I created and maintained pypyt, a Python library to automate Powerpoint presentation creation.
+I also taught Machine Learning workshops to both technical and non-technical audiences.
+Additionally, I collaborated closely with teams in the US and Europe to improve our internal Python library (CriteoPy) which further streamlined our reporting capabilities and increased efficiency.
 
 
-# what's next
+## Analysis Department Coordinator at MainAd
+Jan 2014 - Jan 2018. Pescara, Italy - Santiago, Chile - Manila, Philippines.
+MainAd was a small Italian Performance Marketing Agency with global presence.
+As the Coordinator of the Analysis Department I remotely managed a team of nine data analysts based in the Philippines.
+I successfully executed multiple data projects from end to end in topics such as: BI, Data Visualization, Report Automation, Predictive Analysis with Machine Learning.
 
-<dl>
-    <dt><a href="data">stats overview</a></dt>
-    <dd>I'm currently working on creating a clear, consise, easy to follow statistics overview. it
-        is intended to be a guideline to help people that is interested in acquiring knowledge to
-        work with data
-    </dd>
-</dl>
+## Senior Data Analyst at MainAd
+Jan 2013 - Dec 2013. Pescara, Italy
+Led the implementation of the Data Warehouse and Business Intelligence platform for the company, creating dashboards and custom reports for all levels within the company as well as for external clients.
+
+## Account Manager at MainAd
+Dec 2010 - Dec 2012. Santiago, Chile
+Managed online advertising campaigns delivering positive results for both clients and MainAd.
+Established the foundations for data governance and data analysis for decision making across the region.
+
+# EDUCATION
+## Information Systems, Universidad de Chile
+Mar 2007 - Feb 2012. Santiago, Chile
+
+## Exchange Student, University of Groningen
+Feb - Jul 2010. Groningen, Netherlands
